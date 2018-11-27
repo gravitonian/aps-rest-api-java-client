@@ -15,16 +15,15 @@ Name | Type | Description | Notes
 ## Enum: VariableOperationEnum
 Name | Value
 ---- | -----
-EQUALS | &quot;EQUALS&quot;
-NOT_EQUALS | &quot;NOT_EQUALS&quot;
-EQUALS_IGNORE_CASE | &quot;EQUALS_IGNORE_CASE&quot;
-NOT_EQUALS_IGNORE_CASE | &quot;NOT_EQUALS_IGNORE_CASE&quot;
-LIKE | &quot;LIKE&quot;
-LIKE_IGNORE_CASE | &quot;LIKE_IGNORE_CASE&quot;
-GREATER_THAN | &quot;GREATER_THAN&quot;
-GREATER_THAN_OR_EQUALS | &quot;GREATER_THAN_OR_EQUALS&quot;
-LESS_THAN | &quot;LESS_THAN&quot;
-LESS_THAN_OR_EQUALS | &quot;LESS_THAN_OR_EQUALS&quot;
+EQUALS | &quot;equals&quot;
+NOT_EQUALS | &quot;notEquals&quot;
+EQUALS_IGNORE_CASE | &quot;equalsIgnoreCase&quot;
+NOT_EQUALS_IGNORE_CASE | &quot;notEqualsIgnoreCase&quot;
+LIKE | &quot;like&quot;
+GREATER_THAN | &quot;greaterThan&quot;
+GREATER_THAN_OR_EQUALS | &quot;greaterThanOrEquals&quot;
+LESS_THAN | &quot;lessThan&quot;
+LESS_THAN_OR_EQUALS | &quot;lessThanOrEquals&quot;
 
 
 
